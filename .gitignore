@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+detectron2/
 
 # Spyder project settings
 .spyderproject

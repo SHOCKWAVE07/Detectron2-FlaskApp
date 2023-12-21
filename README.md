@@ -35,6 +35,24 @@ conda activate your-env-name
 pip install -r requirements.txt
 ```
 
+### 4. Install major dependencies
+
+```bash
+conda install pytorch torchvision torchaudio cudatoolkit=11.0 -c pytorch
+```
+```bash
+git clone https://github.com/facebookresearch/detectron2.git
+```
+```bash
+cd detectron2
+```
+```bash
+pip install -e .
+```
+```bash
+cd ..
+```
+
 ### 4. Run the Application
 
 ```bash 
