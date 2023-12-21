@@ -11,19 +11,23 @@ Follow these steps to get started with the project.
 ```bash
 git@github.com:SHOCKWAVE07/Detectron2-FlaskApp.git
 cd Detectron2-FlaskApp
+```
 
 ### 2. Create and Activate virtual environment using conda
 
 ```bash
 conda create --name your-env-name python=3.8
 conda activate your-env-name
+```
 
 ### 3. Install dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 4. Run the Application
 
 ```bash 
 python run.py
+```
