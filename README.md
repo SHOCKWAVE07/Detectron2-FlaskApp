@@ -5,6 +5,7 @@
 This project is a Flask web application that leverages the power of the Detectron2 library for instance segmentation. Instance segmentation is a computer vision task that involves identifying and delineating individual objects within an image. Detectron2, developed by Facebook AI Research (FAIR), is a state-of-the-art object detection and segmentation library.
 
 ![Detectron2 Logo](images/detectron2-logo.png)
+![User Interface](images/ui.png)
 
 ## Getting Started
 
