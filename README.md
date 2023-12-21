@@ -9,7 +9,9 @@ Follow these steps to get started with the project.
 ### 1. Clone the Repository
 
 ```bash
-git@github.com:SHOCKWAVE07/Detectron2-FlaskApp.git
+git clone git@github.com:SHOCKWAVE07/Detectron2-FlaskApp.git
+```
+```bash
 cd Detectron2-FlaskApp
 ```
 
@@ -17,6 +19,8 @@ cd Detectron2-FlaskApp
 
 ```bash
 conda create --name your-env-name python=3.8
+```
+```bash
 conda activate your-env-name
 ```
 
