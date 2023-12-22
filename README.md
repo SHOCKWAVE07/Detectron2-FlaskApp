@@ -55,9 +55,19 @@ cd ..
 
 ### 4. Run the Application
 
+1. Flask App
 ```bash 
 python run.py
 ```
+
+2. Streamlit App
+```bash
+streamlit run streamlit_app.py
+```
+
+## Model precision
+
+----------------------
 
 ## Features
 
