@@ -1,4 +1,4 @@
-# Instance Segmentation with Detectron2 Flask App
+# Traffic Signs Instance Segmentation with Detectron2 Flask App
 
 ## Overview
 
