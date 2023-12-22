@@ -1,0 +1,51 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "other",
+      "points": [
+        [
+          811.8345323741007,
+          482.1942446043165
+        ],
+        [
+          801.0431654676258,
+          464.74820143884887
+        ],
+        [
+          821.1870503597122,
+          464.3884892086331
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "danger",
+      "points": [
+        [
+          1257.6,
+          209.6
+        ],
+        [
+          1213.6,
+          304.0
+        ],
+        [
+          1323.2,
+          299.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00078.jpg",
+  "imageHeight": 800,
+  "imageWidth": 1360
+}

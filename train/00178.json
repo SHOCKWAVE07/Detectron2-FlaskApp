@@ -1,0 +1,50 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "prohibitory",
+      "points": [
+        [
+          736.4,
+          456.9
+        ],
+        [
+          743.0,
+          456.9
+        ],
+        [
+          748.1,
+          461.5
+        ],
+        [
+          748.3,
+          469.9
+        ],
+        [
+          744.3,
+          475.9
+        ],
+        [
+          736.6,
+          476.2
+        ],
+        [
+          729.9,
+          471.0
+        ],
+        [
+          729.9,
+          463.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00178.jpg",
+  "imageHeight": 800,
+  "imageWidth": 1360
+}

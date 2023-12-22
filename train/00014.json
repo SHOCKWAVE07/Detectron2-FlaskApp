@@ -1,0 +1,30 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "danger",
+      "points": [
+        [
+          722.5802879291252,
+          492.0265780730897
+        ],
+        [
+          711.9490586932448,
+          509.85603543743076
+        ],
+        [
+          732.9900332225914,
+          510.2990033222591
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "00014.jpg",
+  "imageHeight": 800,
+  "imageWidth": 1360
+}
