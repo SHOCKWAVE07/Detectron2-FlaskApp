@@ -130,7 +130,7 @@ venv.bak/
 detectron2/
 
 # Dataset
-trian/
+train/
 val/
 models/
 
