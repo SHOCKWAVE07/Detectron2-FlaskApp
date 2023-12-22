@@ -14,14 +14,3 @@ def index():
 
     return render_template('index.html')
 
-@main_bp.route('/segment', methods=['POST'])
-def segment():
-    if 'image' in request.files:
-        result_image = perform_instance_segmentation(request.files['image'], output_format='png')
-        return result_image
-    else:
-        return "No image received"
-
-@main_bp.route('/static/<path:filename>')
-def download_file(filename):
-    return send_from_directory('static', filename)
