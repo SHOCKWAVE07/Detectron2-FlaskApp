@@ -130,9 +130,9 @@ venv.bak/
 detectron2/
 
 # Dataset
-trian/
-val/
-models/
+trian
+val
+models
 
 # Spyder project settings
 .spyderproject
