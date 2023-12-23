@@ -6,6 +6,7 @@ This project is a Flask web application that leverages the power of the Detectro
 
 ![Detectron2 Logo](images/detectron2-logo.png)
 ![User Interface](images/ui.png)
+1[Streamlit UI](images/streamlit_ui.png)
 
 ## Getting Started
 
@@ -67,7 +68,7 @@ streamlit run streamlit_app.py
 
 ## Model precision
 
-----------------------
+1[Model precision](images/precision.jpg)
 
 ## Features
 
