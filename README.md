@@ -6,6 +6,7 @@ This project is a Flask web application that leverages the power of the Detectro
 
 ![Detectron2 Logo](images/detectron2-logo.png)
 ![User Interface](images/ui.png)
+![User Interface](images/streamlit_ui.png)
 
 ## Getting Started
 

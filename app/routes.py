@@ -24,4 +24,8 @@ def segment():
 
 @main_bp.route('/static/<path:filename>')
 def download_file(filename):
+<<<<<<< Updated upstream
     return send_from_directory('static', filename)
+=======
+    return send_from_directory('static', filename)
+>>>>>>> Stashed changes
