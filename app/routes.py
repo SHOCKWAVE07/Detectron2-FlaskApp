@@ -17,6 +17,7 @@ def index():
 @main_bp.route('/segment', methods=['POST'])
 def segment():
     if 'image' in request.files:
+<<<<<<< Updated upstream
         result_image = perform_instance_segmentation(request.files['image'], output_format='png')
         return result_image
     else:
@@ -27,5 +28,18 @@ def download_file(filename):
 <<<<<<< Updated upstream
     return send_from_directory('static', filename)
 =======
+    return send_from_directory('static', filename)
+>>>>>>> Stashed changes
+=======
+        # Handle image upload and perform instance segmentation
+        result_image = perform_instance_segmentation(request.files['image'], output_format='png')
+
+        # Return image bytes
+        return result_image
+    else:
+        return "No image received"
+    
+@main_bp.route('/static/<path:filename>')
+def download_file(filename):
     return send_from_directory('static', filename)
 >>>>>>> Stashed changes
