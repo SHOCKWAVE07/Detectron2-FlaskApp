@@ -112,4 +112,4 @@ streamlit run streamlit_app.py
 
 ## Additional Information
 
-For more details or customizations, refer to the project's documentation or contact the project maintainers. Enjoy exploring instance segmentation with Detectron2!
+For more details or customizations, refer to the project's documentation or contact the project maintainers. Enjoy exploring instance segmentation with Detectron2.
